@@ -22,7 +22,7 @@ let valueInNumber = Number(score)
 
 // let isLoggedIn = 1               //true
 // let isLoggedIn = ""              //false
-let isLoggedIn = "saurav"        //true
+let isLoggedIn = "saurav"           //true
 
 
 let booleanIsLogedIn = Boolean(isLoggedIn)
