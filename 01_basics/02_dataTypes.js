@@ -21,8 +21,8 @@ let state;                  // undifined =>
 
 // Object
 
-console.log(typeof "saurav");
-console.log(typeof age);
+console.log(typeof "saurav");   // string
+console.log(typeof age);        // number
 console.log(typeof null);       // object
 console.log(typeof undefined);  // undifined
 
